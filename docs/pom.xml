@@ -13,7 +13,7 @@
             <plugin>
                 <groupId>org.testingisdocumenting.znai</groupId>
                 <artifactId>znai-maven-plugin</artifactId>
-                <version>1.69</version>
+                <version>1.73</version>
                 <configuration>
                     <docId>brainterpreter</docId>
                 </configuration>
