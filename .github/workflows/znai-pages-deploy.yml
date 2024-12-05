@@ -35,7 +35,7 @@ jobs:
 
       # Use virtual frame buffer to render images
       - name: Build with xvfb enabled
-        uses: GabrielBB/xvfb-action@v1.6
+        uses: GabrielBB/xvfb-action@v1.7
         # build documentation using maven. 
         with:
           run: mvn -B -f docs/pom.xml znai:build 
